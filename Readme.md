@@ -25,3 +25,5 @@ Option to play again after each game session.
 Command-Line Interface:
 
 Interactive CLI using Inquirer.js to guide the player through the game.
+**npx command:**
+npx f01-cli-number_guessinggame
